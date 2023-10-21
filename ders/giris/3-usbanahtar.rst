@@ -13,16 +13,16 @@ Kurulum için deb paketini indirip kurununuz.
 
 Aşağıdaki aşamaları sırasıyla uygulayarak usb disk hazırlanabilir.
 
-.. image:: /_static/images/1-usbkey.png
+.. image:: /_static/images/1-usbkey.png   
   :width: 400
   
-  .. image:: /_static/images/2-usbkey.png
+.. image:: /_static/images/2-usbkey.png
   :width: 400
   
-  .. image:: /_static/images/3-usbkey.png
+.. image:: /_static/images/3-usbkey.png
   :width: 400
   
-  .. image:: /_static/images/4-usbkey.png
+.. image:: /_static/images/4-usbkey.png
   :width: 400
 
 Disk hazırlandı mesajını aldığınızda usb diskiniz hazırlanmıştır.
@@ -39,19 +39,29 @@ Disk hazırlandı mesajını aldığınızda usb diskiniz hazırlanmıştır.
 
 5- Eğer disk çıkartıldığında başka bir farklı bir komut çalıştırmak isterseniz;
 
-/usr/share/usbkeycreater/command.conf dosya içeriğini değiştirin.
+
+.. code-block:: shell
+
+  /usr/share/usbkeycreater/command.conf dosya içeriğini değiştirin.
+
 
 **Örnek 1(Oturum Kapatma varsayılan bu var):**
 
-sudo echo "loginctl terminate-seat seat0">/usr/share/usbkeycreater/command.conf
+.. code-block:: shell
+  
+  sudo echo "loginctl terminate-seat seat0">/usr/share/usbkeycreater/command.conf
 
 **Örnek 2(Sistemi Kapatma):**
 
-sudo echo "poweroff">/usr/share/usbkeycreater/command.conf
+.. code-block:: shell
+ 
+  sudo echo "poweroff">/usr/share/usbkeycreater/command.conf
 
 **Örnek 3(Sistemi Yeniden Başlatma):**
 
-sudo echo "reboot">/usr/share/usbkeycreater/command.conf
+.. code-block:: shell
+  
+  sudo echo "reboot">/usr/share/usbkeycreater/command.conf
 
 Yukarıdaki örnekleri veya başka bir işi yapacak komutları çalıştırabilirsiniz. Kurulduğunda varsayılan olarak ilk örnek çalışacak şekilde ayarlanmıştır.
 Terminalde örneklerde gösterilen komut çalıştırılarak görev tanımlaması yapabilirsiniz.
