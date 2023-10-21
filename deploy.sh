@@ -3,8 +3,13 @@ set -ex
 #ymp repo --update --ignore-gpg
 #ymp it make python3.11 python fontconfig py3-cairo brotli --upgrade --no-emerge
 #pydefault 3.11
-#python3.11 -m ensurepip 
-apt install python3 python make
+#python3.11 -m ensurepip
+if which apt &>/dev/null && [[ -d /var/lib/dpkg && -d /etc/apt ]] ; then
+    apt-get update
+       echo "işlem başladı....."
+     apt install mtools make python3 make -y
+fi
+#apt install python3 python make
 pip3 install sphinx-build
 pip3 install rst2pdf
 pip3 install sphinx-sitemap
