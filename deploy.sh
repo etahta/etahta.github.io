@@ -4,7 +4,7 @@ set -ex
 
      apt-get update
      echo "işlem başladı....."
-     apt install mtools make python3 make -y
+     apt install mtools make python3 make python3-pip -y
      pip3 install sphinx-build
      pip3 install rst2pdf
      pip3 install sphinx-sitemap
