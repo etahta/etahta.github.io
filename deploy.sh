@@ -8,11 +8,13 @@ set -ex
      #rm /usr/lib/python3.11/EXTERNALLY-MANAGED
      #pip install --upgrade pip
      #pip install --no-cache-dir --upgrade pip
-  pip3 install --break-system-packages --upgrade package    
-     pip3 install sphinx-build
-     pip3 install rst2pdf
-     pip3 install sphinx-sitemap
-
+  #pip3 install --break-system-packages --upgrade package    
+   #  pip3 install sphinx-build
+   #  pip3 install rst2pdf
+   #  pip3 install sphinx-sitemap
+pip install --user sphinx-build
+pip install --user rst2pdf
+pip install --user phinx-sitemap
 #apt install python3 python make
 
 # install font
