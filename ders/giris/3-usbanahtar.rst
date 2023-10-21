@@ -1,5 +1,7 @@
 # usbkeycreater
-<img src="usbkeycreatergui/icons/usbkeycreater.svg" width="100" height="100" />
+.. image:: /_static/images/usbkeycreater.svg
+  :width: 100
+
 Bu proje usb anahtar hazırlama ve açılmasını içeren bir projedir.
 
 **Kurulum:**
@@ -9,11 +11,17 @@ Kurulum için deb paketini indirip kurununuz.
 **Usb Hazırlamak:**
 
 Aşağıdaki aşamaları sırasıyla uygulayarak usb disk hazırlanabilir.
-
-<img src="/_static/images/1-usbkey.png" width="600" height="600" />
-<img src="/_static/images/2-usbkey.png" width="600" height="600" />
-<img src="/_static/images/3-usbkey.png" width="600" height="600" />
-<img src="/_static/images/4-usbkey.png" width="600" height="600" />
+.. image:: /_static/images/1-usbkey.png
+  :width: 400
+  
+  .. image:: /_static/images/2-usbkey.png
+  :width: 400
+  
+  .. image:: /_static/images/3-usbkey.png
+  :width: 400
+  
+  .. image:: /_static/images/4-usbkey.png
+  :width: 400
 
 Disk hazırlandı mesajını aldığınızda usb diskiniz hazırlanmıştır.
 
