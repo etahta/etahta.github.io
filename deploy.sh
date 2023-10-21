@@ -3,7 +3,7 @@ set -ex
 #ymp repo --update --ignore-gpg
 #ymp it make python3.11 python fontconfig py3-cairo brotli --upgrade --no-emerge
 #pydefault 3.11
-#python3.11 -m ensurepip
+#python3.11 -m ensurepip 
 apt install python3 python make
 pip3 install sphinx-build
 pip3 install rst2pdf
