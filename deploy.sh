@@ -4,7 +4,7 @@ set -ex
 
      apt-get update
      echo "işlem başladı....."
-     apt install mtools make python3 make python3-pip -y
+     apt install mtools make python3 make python3-pip python3-sphinx python3-sphinx-sitemap rst2pdf -y
      #rm /usr/lib/python3.11/EXTERNALLY-MANAGED
      #pip install --upgrade pip
      #pip install --no-cache-dir --upgrade pip
@@ -12,9 +12,9 @@ set -ex
    #  pip3 install sphinx-build
    #  pip3 install rst2pdf
    #  pip3 install sphinx-sitemap
-pip install --user sphinx-build
-pip install --user rst2pdf
-pip install --user phinx-sitemap
+#pip install --user sphinx-build
+#pip install --user rst2pdf
+#pip install --user sphinx-sitemap
 #apt install python3 python make
 
 # install font
