@@ -4,9 +4,10 @@ set -ex
 #ymp it make python3.11 python fontconfig py3-cairo brotli --upgrade --no-emerge
 #pydefault 3.11
 #python3.11 -m ensurepip
-#pip3.11 install sphinx
-#pip3.11 install rst2pdf
-#pip3.11 install sphinx-sitemap
+apt install python3 python make
+pip3 install sphinx-build
+pip3 install rst2pdf
+pip3 install sphinx-sitemap
 # install font
 #wget https://github.com/dejavu-fonts/dejavu-fonts/releases/download/version_2_37/dejavu-fonts-ttf-2.37.zip -O font.zip
 #unzip font.zip
