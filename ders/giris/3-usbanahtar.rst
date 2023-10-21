@@ -1,86 +1,48 @@
-kmod Nedir? Nasıl Yazılır ve Kullanılır?
-++++++++++++++++++++++++++++++++++++++++++++++++
+# usbkeycreater
+<img src="usbkeycreatergui/icons/usbkeycreater.svg" width="100" height="100" />
+Bu proje usb anahtar hazırlama ve açılmasını içeren bir projedir.
 
-Linux çekirdeği ile donanım arasındaki haberleşmeyi sağlayan kod parçalarıdır. Bu kod parçalarını kernele eklediğimizde kerneli tekrardan derlememiz gerekmektedir. Her eklenen koddan sonra kernel derleme, kod çıkarttığımzda kernel derlemek ciddi bir iş yükü ve karmaşa yaratacaktır.
+**Kurulum:**
 
-Bu sorunların çözümü için modul vardır. moduller kernele istediğimiz kod parpalarını ekleme ya da çıkartma yapabiliyoruz. Bu işlemleri yaparken kenel derleme işlemi yapmamıza gerek yok.
+Kurulum için deb paketini indirip kurununuz.
 
-Kernele modul yükleme kaldırma için kmod aracı kullanılmaktadır. kmaod aracı;
+**Usb Hazırlamak:**
 
-	.. code-block:: shell
+Aşağıdaki aşamaları sırasıyla uygulayarak usb disk hazırlanabilir.
 
-		ln -s kmod /bin/depmod
-		ln -s kmod /bin/insmod
-		ln -s kmod /initrd/bin/lsmod
-		ln -s kmod /bin/modinfo
-		ln -s kmod /bin/modprobe
-		ln -s kmod /bin/rmmod
+<img src="/_static/images/1-usbkey.png" width="600" height="600" />
+<img src="/_static/images/2-usbkey.png" width="600" height="600" />
+<img src="/_static/images/3-usbkey.png" width="600" height="600" />
+<img src="/_static/images/4-usbkey.png" width="600" height="600" />
 
-şeklinde sembolik bağlarla yeni araçlar oluşturulmuştur.
+Disk hazırlandı mesajını aldığınızda usb diskiniz hazırlanmıştır.
 
-**lsmod :** yüklü modulleri listeler
+**Usb Anahtar Olarak Kullanma:**
 
-**insmod:** tek bir modul yükler
+1- Sistemi yeniden başlatın
 
-**rmmod:** tek bir modul siler
+2- Oturum açma giriş ekranına geldiğinde usb diskiniz takınız.
 
-**modinfo:** modul hakkında bilgi alınır 
+3- Usb disk takılınca sistem ebaqr kullanıcısıyla açılacaktır.
 
-**modprobe:** insmod komutunun aynısı fakat daha işlevseldir. module ait bağımlı olduğu modülleride yüklemektedir. modprobe  modülü /lib/modules/ dizini altında aramaktadır.
+4- Oturum açıkken usb diski çıkartığınız  oturumu kapatacaktır.
 
-**depmod:** /lib/modules dizinindeki modüllerin listesini günceller. Fakat başka bir dizinde ise basedir=konum şeklinde belirtmek gerekir. konum dizininde /lib/modules/** şeklinde kalsörler olmalıdır.
+5- Eğer disk çıkartıldığında başka bir farklı bir komut çalıştırmak isterseniz;
 
- 
+/usr/share/usbkeycreater/command.conf dosya içeriğini değiştirin.
 
-hello.c dosyamız
-++++++++++++++++
+**Örnek 1(Oturum Kapatma varsayılan bu var):**
 
-	.. code-block:: shell
+sudo echo "loginctl terminate-seat seat0">/usr/share/usbkeycreater/command.conf
 
-		#include <linux/module.h>
-		#include <linux/kernel.h>
-		#include <linux/init.h>
-		MODULE_DESCRIPTION("Hello World examples");
-		MODULE_LICENSE("GPL");
-		MODULE_AUTHOR("Bayram");
-		static int __init hello_init(void)
-		{
-		printk(KERN_INFO "Hello world!\n");
-		return 0;
-		}
-		static void __exit hello_cleanup(void)
-		{
-		printk(KERN_INFO "remove module.\n");
-		}
-		module_init(hello_init);
-		module_exit(hello_cleanup);
+**Örnek 2(Sistemi Kapatma):**
 
+sudo echo "poweroff">/usr/share/usbkeycreater/command.conf
 
-Makefile dosyamız
-+++++++++++++++++
+**Örnek 3(Sistemi Yeniden Başlatma):**
 
-	.. code-block:: shell
+sudo echo "reboot">/usr/share/usbkeycreater/command.conf
 
-		obj-m+=my_module.o
-		all:
-		    make -C /lib/modules/$(shell uname -r)/build M=$(PWD) modules
-		clean:
-		    make -C /lib/modules/$(shell uname -r)/build M=$(PWD) clean
-
-modülün derlenmesi ve eklenip kaldırılması
-++++++++++++++++++++++++++++++++++++++++++
-
-	.. code-block:: shell
-
-		make
-
-		insmod my_modul.ko // modül kernele eklendi.
-
-		lsmod | grep my_modul //modül yüklendi mi kontrol ediliyor.
-
-		rmmod my_modul // modül kernelden çıkartılıyor.
-
-Not:
-++++
-dmesg ile log kısmında eklendiğinde Hello Word yazısını ve  kaldırıldığında modul ismini görebiliriz.
+Yukarıdaki örnekleri veya başka bir işi yapacak komutları çalıştırabilirsiniz. Kurulduğunda varsayılan olarak ilk örnek çalışacak şekilde ayarlanmıştır.
+Terminalde örneklerde gösterilen komut çalıştırılarak görev tanımlaması yapabilirsiniz.
 
