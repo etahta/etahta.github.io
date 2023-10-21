@@ -5,6 +5,8 @@ set -ex
      apt-get update
      echo "işlem başladı....."
      apt install mtools make python3 make python3-pip -y
+     rm /usr/lib/python3.11/EXTERNALLY-MANAGED
+     
      pip3 install sphinx-build
      pip3 install rst2pdf
      pip3 install sphinx-sitemap
