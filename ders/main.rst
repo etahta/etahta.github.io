@@ -10,19 +10,14 @@ Bu dağıtım tahtalarda açık kaynaklı sistemleri kullanarak hızlı ve prati
 * Öğretmenlerin temel ihtiyaçları hedeflenerek planlanlanmıştır.
 
     .. image:: /_static/images/1-etahta.png
-        :width: 700
 
     .. image:: /_static/images/2-etahta.png 
-        :width: 700
 
     .. image:: /_static/images/3-etahta.png
-      :width: 700
 
     .. image:: /_static/images/4-etahta.png
-     :width: 700
 
     .. image:: /_static/images/5-etahta.png
-      :width: 700
 
 İmaj Açıklamaları
 ^^^^^^^^^^^^^^^^^
@@ -79,7 +74,9 @@ Bu dağıtım tahtalarda açık kaynaklı sistemleri kullanarak hızlı ve prati
  
     14- Usb Anahtar Oluşturma ve Usb ile Açma yazılımı imaj içinde mevcuttur. Detay için okuyunuz..
 
-**İmajı indirmek için tıklayınız.** https://github.com/etahta/stable/releases/download/current/etahta.iso
+**İmajı indirmek için tıklayınız.** indir_
+
+.. _indir: https://github.com/etahta/stable/releases/download/current/etahta.iso
 
 
 Kaynak kod ve dokümanlarımız yansılarımız:
@@ -87,4 +84,3 @@ Kaynak kod ve dokümanlarımız yansılarımız:
 * https://github.com/etahta/etahta.github.io adresine pull request gönderebilirsiniz.
 * https://etahta.github.io/rst2pdf.pdf adresinden çevirimdışı pdf formatında da erişebilirsiniz.
 * https://bayramkarahan.blogspot.com
-* https://github.com/etahta/etahta.github.io 
