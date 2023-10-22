@@ -1,5 +1,5 @@
-Dokümanlar
-==========
+Doküman Hazırlama
+=================
 .. toctree::
 	:glob:
 
