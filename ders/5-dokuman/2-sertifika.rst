@@ -1,5 +1,5 @@
 Chrome Sertifika Yükleme?
-+++++++++++++++++++++++++
+=========================
 
 Sertifikalar, web tarayıcılarında güvenli bir şekilde iletişim kurmak için kullanılan önemli bileşenlerdir. Chrome tarayıcısında sertifika yükleme işlemi oldukça basittir. İşte adım adım sertifika yükleme süreci:
 

@@ -1,12 +1,12 @@
 Belgelendirme Aracı
-+++++++++++++++++++
+===================
 
 Sphinx, Python programcıları için popüler bir belgelendirme aracıdır. Sphinx, belgelerinizi otomatik olarak oluşturmanıza ve yönetmenize yardımcı olan bir dokümantasyon aracıdır. Sphinx, belgelerinizi Markdown veya reStructuredText formatında yazmanıza olanak tanır ve ardından bu belgeleri HTML, PDF, EPUB ve diğer formatlara dönüştürür.
 
 Sphinx, Python projeleri için özellikle kullanışlıdır çünkü Python'un docstring formatını destekler. Bu, Python kodunuzun içine yerleştirilen belge dizelerini kullanarak otomatik olarak belgeler oluşturmanızı sağlar. Sphinx ayrıca, belgelerinizi özelleştirmenize ve stilize etmenize olanak tanıyan bir dizi tema ve eklenti sunar.
 
 Nasıl Kullanılır?
-+++++++++++++++++
+^^^^^^^^^^^^^^^^^
 
 Sphinx'i kullanmak için aşağıdaki adımları izleyebilirsiniz:
 
@@ -20,7 +20,7 @@ Sphinx'i yükleyin:
     sudo apt install python3-sphinx
 
 Proje Oluşturma:
-++++++++++++++++
++++++++++++++++
 
 Projeye uygun bir dizin açalım. Dizin içinde terminali açalım.
 
@@ -43,7 +43,7 @@ Belge dosyalarınızı oluşturun veya mevcut belgelerinizi Sphinx formatına d�
     Belge dosyalarınızı düzenleyin ve içeriğinizi ekleyin.
 
 Belgeyi oluşturun:
-++++++++++++++++++
++++++++++++++++++
 
 .. code-block:: shell
 
