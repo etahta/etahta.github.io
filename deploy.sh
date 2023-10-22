@@ -4,7 +4,7 @@ set -ex
 
      apt-get update
      echo "işlem başladı....."
-     apt install mtools make python3 make python3-pip python3-sphinx python3-sphinx-sitemap rst2pdf -y
+     apt install mtools make python3 make python3-pip python3-sphinx python3-sphinx-sitemap rst2pdf python3-svglib -y
      #rm /usr/lib/python3.11/EXTERNALLY-MANAGED
      #pip install --upgrade pip
      #pip install --no-cache-dir --upgrade pip

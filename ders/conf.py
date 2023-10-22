@@ -16,7 +16,7 @@ pdf_documents = [('index', u'rst2pdf', u'etahta Dokümanı', u'etahta Linux'),]
 pdf_stylesheets = ['style-main.yaml', 'tango']
 pdf_font_path = ['/usr/share/fonts', '/usr/share/texmf-dist/fonts/']
 pdf_style_path = [ '.', 'ders/_static']
-pdf_use_coverpage = False
+pdf_use_coverpage = True
 pdf_use_toc = True
 pdf_default_dpi = 96
 pdf_compressed = True
@@ -25,7 +25,7 @@ pdf_fit_mode = "shrink"
 
 # -- Options for HTML output --
 
-html_baseurl = 'https://etahta.github.io/devel/doc/wiki/'
+html_baseurl = 'https://etahta.github.io/'
 html_theme = 'alabaster'
 html_static_path = ['_static']
 html_theme_options = {
