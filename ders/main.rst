@@ -1,6 +1,6 @@
 Etahta Wikiye Hoşgeldiniz
 =========================
-Bu içerikğe katkı sağlamak için https://github.com/etahta/sayfa adresine pull request gönderebilirsiniz.
+Bu içerikğe katkı sağlamak için https://github.com/etahta/etahta.github.io adresine pull request gönderebilirsiniz.
 
 Giriş:
 ^^^^^^
@@ -17,4 +17,4 @@ Logonun anlamı
 Kaynak kod yansılarımız:
 
 * https://bayramkarahan.blogspot.com
-* https://github.com/etahta
+* https://github.com/etahta/etahta.github.io 
