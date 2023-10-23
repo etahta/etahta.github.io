@@ -20,7 +20,7 @@ Sphinx'i yükleyin:
     sudo apt install python3-sphinx
 
 Proje Oluşturma:
-+++++++++++++++
+++++++++++++++++
 
 Projeye uygun bir dizin açalım. Dizin içinde terminali açalım.
 
@@ -43,7 +43,7 @@ Belge dosyalarınızı oluşturun veya mevcut belgelerinizi Sphinx formatına d�
     Belge dosyalarınızı düzenleyin ve içeriğinizi ekleyin.
 
 Belgeyi oluşturun:
-+++++++++++++++++
+++++++++++++++++++
 
 .. code-block:: shell
 

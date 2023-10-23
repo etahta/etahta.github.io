@@ -1,8 +1,8 @@
-usbanahtar Kullanımı
-++++++++++++++++++++
+usbanahtar
+++++++++++
 
-.. image:: /_static/images/usbkeycreater.svg
-  :width: 100
+	.. image:: /_static/images/usbkeycreater.svg
+  		:width: 100
 
 Bu proje usb anahtar hazırlama ve açılmasını içeren bir projedir.
 
@@ -14,20 +14,20 @@ Kurulum için deb paketini indirip kurununuz.
 
 Aşağıdaki aşamaları sırasıyla uygulayarak usb disk hazırlanabilir.
 
-.. image:: /_static/images/1-usbkey.png   
-  :width: 400
+	.. image:: /_static/images/1-usbkey.png   
+  		:width: 400
 
 
-.. image:: /_static/images/2-usbkey.png
-  :width: 400
+	.. image:: /_static/images/2-usbkey.png
+  		:width: 400
 
 
-.. image:: /_static/images/3-usbkey.png
-  :width: 400
+	.. image:: /_static/images/3-usbkey.png
+  		:width: 400
 
 
-.. image:: /_static/images/4-usbkey.png
-  :width: 400
+	.. image:: /_static/images/4-usbkey.png
+  		:width: 400
 
 
 Disk hazırlandı mesajını aldığınızda usb diskiniz hazırlanmıştır.

@@ -1,5 +1,5 @@
-Diğer Konular
-=============
+Sistem Bilgisi
+==============
 .. toctree::
 	:glob:
 
