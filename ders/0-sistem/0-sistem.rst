@@ -2,15 +2,30 @@ Sistem Hakkında
 ===============
 Sistemin giriş ekranındaki seçenekler ve masaüstü görünümleri aşağıda verilmiştir.
 
-    .. image:: /_static/images/1-etahta.png
+| Giriş Ekranının Görünümü
 
-    .. image:: /_static/images/2-etahta.png 
+    .. image:: /_static/images/1-etahta.png
+    	:width: 600
+    	
+| Ebaqr ile Giriş Seçeneği
+
+    .. image:: /_static/images/2-etahta.png
+    	:width: 600
+
+| Qrkod ile Giriş Seçeneği
 
     .. image:: /_static/images/3-etahta.png
+    	:width: 600
+    	
+| Normal Giriş ve Klavye
 
     .. image:: /_static/images/4-etahta.png
+    	:width: 600
+
+| Sistem Açıldığındaki Masaüstü Görünümü
 
     .. image:: /_static/images/5-etahta.png
+    	:width: 600
 
 Sistem Açıklamaları
 ^^^^^^^^^^^^^^^^^^^
