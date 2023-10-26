@@ -1,6 +1,0 @@
-akisdiyagrami
-=============
-
-.. raw:: pdf
-
-   PageBreak
