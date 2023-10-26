@@ -52,4 +52,7 @@ Terminali açın ve Wine ile uygulamayı çalıştırmak için aşağıdaki komu
 	wine /path/to/application.exe
 
 
+.. raw:: pdf
+
+   PageBreak
 

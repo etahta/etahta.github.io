@@ -13,3 +13,7 @@ Terminal komutlarını kolaylıkla etkileşimli bir şekilde kurmak için geliş
 
 Uygulama içeriğine yeni eklemeler yaptığımızda program internet üzerinden güncelleme yapacaktır. Bundan dolayı yeni içerik eklenmesi güncellenmesi çok kolaydır. İsteğiniz doğrultusunda sık kullanılan konson işleri ekleye biliriz..
 
+
+.. raw:: pdf
+
+   PageBreak

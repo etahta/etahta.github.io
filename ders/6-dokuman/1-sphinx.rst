@@ -62,6 +62,9 @@ Belgeyi oluşturun:
 Oluşturulan belgeleri kontrol edin ve dağıtım için hazır hale getirin.
 
 
+.. raw:: pdf
+
+   PageBreak
 
 
 Sphinx, Python projelerinizin belgelerini oluşturmanın kolay ve etkili bir yoludur. Hem geliştiriciler hem de kullanıcılar için daha iyi bir belge deneyimi sağlar. Sphinx hakkında daha fazla bilgi için Sphinx'in resmi belgelerine göz atabilirsiniz.

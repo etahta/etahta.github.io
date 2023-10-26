@@ -26,3 +26,8 @@ Hp 1005-1018-1020 Yazıcıları kurmak için;
 * Sorun yaşayanlar aşağıdaki sayfayı ziyaret edebilirler.
  
 https://forum.pardus.org.tr/t/hp-laserjet-m1132-mfp-yazici-sorunu/16567/5
+
+
+.. raw:: pdf
+
+   PageBreak

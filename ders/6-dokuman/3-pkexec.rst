@@ -36,3 +36,8 @@ Sadece root kullanıcı olarak çalıştırmak için dosya haklarını, 700 olar
 ^^^^^^^^^^^^^^^
 * İstenilen bir kullanıcı ile komut çalıştırma(sudo yetkisi olmayan bir kullanıcı içinde geçerlidir)
 * sudo kullanıcısı birden fazla ise hangisini kullanacağımızı seçebiliriz.
+
+
+.. raw:: pdf
+
+   PageBreak

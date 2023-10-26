@@ -47,5 +47,8 @@ Login butonuna tıkladığımızda tahta açılacaktır.
 
 .. image:: /_static/images/8-giris-qrkod.jpg
   :width: 600
-  
+
+.. raw:: pdf
+
+   PageBreak
 

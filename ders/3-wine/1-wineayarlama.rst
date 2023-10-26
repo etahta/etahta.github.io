@@ -43,3 +43,7 @@ Test Etme
 +++++++++
 
 Yapılandırdığınız Wine ayarlarını test etmek için bir Windows uygulamasını çalıştırın. Eğer sorunsuz bir şekilde çalışıyorsa, ayarlarınız doğru yapılandırılmış demektir.
+
+.. raw:: pdf
+
+   PageBreak

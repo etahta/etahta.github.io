@@ -32,4 +32,7 @@ Qr Kod Kullanımı:
 - Açılan oturum ebaqr adında oluşturulmuş bir kullanıcıdır. 
 - QR için sadece telefonunda öğretmen hesabı ile açılmış EBA mobil den oturum açılabilir.
 
+.. raw:: pdf
+
+   PageBreak
 

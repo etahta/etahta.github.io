@@ -75,3 +75,6 @@ Aşağıdaki aşamaları sırasıyla uygulayarak usb disk hazırlanabilir.
 Yukarıdaki örnekleri veya başka bir işi yapacak komutları çalıştırabilirsiniz. Kurulduğunda varsayılan olarak ilk örnek çalışacak şekilde ayarlanmıştır.
 Terminalde örneklerde gösterilen komut çalıştırılarak görev tanımlaması yapabilirsiniz.
 
+.. raw:: pdf
+
+   PageBreak

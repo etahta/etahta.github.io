@@ -37,5 +37,8 @@ Yazıcı kurulumlarını Cups uygulaması üzerinden yapılabilir. Kurulum aşa�
 
 	.. image:: /_static/images/7-yazici-cups.png
  		:width: 600
-  
+
+.. raw:: pdf
+
+   PageBreak
 

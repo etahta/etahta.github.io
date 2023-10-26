@@ -43,4 +43,7 @@ e-tahta Yazılımı ile Yapılabilecekler;
   
   	.. image:: /_static/images/7-uygulama-e-tahta.png
   		:width: 600
-  
+
+.. raw:: pdf
+
+   PageBreak

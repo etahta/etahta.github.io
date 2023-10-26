@@ -87,3 +87,7 @@ Sistemin İmaj Dosyası
 **İmajı indirmek için tıklayınız.** indir_
 
 .. _indir: https://github.com/etahta/stable/releases/download/current/etahta.iso
+
+.. raw:: pdf
+
+   PageBreak

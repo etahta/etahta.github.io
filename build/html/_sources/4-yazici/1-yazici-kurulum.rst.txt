@@ -18,3 +18,7 @@ Yazıcılar iki farklı yoldan kurulabilir.
 
 Bu iki kurulum yöntemide cups ayarlarına yansımaktadır. 
 Bundan dolayı yazıcı kurulumlarını cups üzerinden yapmak daha iyi olacaktır.
+
+.. raw:: pdf
+
+   PageBreak
