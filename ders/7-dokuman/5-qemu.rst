@@ -1,7 +1,7 @@
 Qemu Kullanımı
 ==============
 
-.. image:: /_static/images/1-qemu.png
+.. image:: /_static/images/0-qemu.png
   	:width: 100
 
 Qemu Nedir?
