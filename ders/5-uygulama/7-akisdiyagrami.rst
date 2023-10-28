@@ -1,8 +1,8 @@
 akisdiyagrami
 =============
 
-.. image:: /_static/images/0-uygulama-akisdiyagram.png
-  	:width: 100
+.. image:: /_static/images/0-uygulama-akisdiyagram.png 
+	:width: 100
 
 
 Programlama için temel basamaklardan olan **akış diyagramı** nı bilgisayar üzerinden yapmayı sağlayan bir uygulamadır.
