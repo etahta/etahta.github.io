@@ -12,8 +12,8 @@ Uygulamayı kullanabilmek için;
 * Telefonda gözüken 6 basaklı sayı **e-kilit** uygulaması üzerindeki bölüme girilerek sistem açılır.
 * Oturum kapatılıp açılınca ekrana yine **e-kilit** uygulaması gelecektir.
 
-.. image:: /_static/images/1-uygulama-e-sabit.svg
-  	:width: 600
+.. image:: /_static/images/1-uygulama-e-kilit.png
+	:width: 600
 
 
 

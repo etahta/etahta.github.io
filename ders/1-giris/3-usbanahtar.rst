@@ -1,7 +1,7 @@
 usbanahtar
 ++++++++++
 
-	.. image:: /_static/images/usbkeycreater.svg
+	.. image:: /_static/images/0-usbkeycreater.svg
   		:width: 100
 
 Bu proje usb anahtar hazırlama ve açılmasını içeren bir projedir.
