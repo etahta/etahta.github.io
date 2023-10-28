@@ -23,28 +23,43 @@ Yazılımla yapabilecekleriniz;
     * Uzak bilgisayarın yönetici hesabına script kopyalayıp server üzerinden çalıştırabilirsiniz.
     * Server bilgisayarın ekranını yansıtma
 
-| .. image:: /_static/images/1-uygulama-e-ag.png
+  		
+|  
+
+.. image:: /_static/images/1-uygulama-e-ag.png
   	:width: 600
 
-| .. image:: /_static/images/2-uygulama-e-ag.png
+.. image:: /_static/images/2-uygulama-e-ag.png
   	:width: 600
+  		
+|  
 
-| .. image:: /_static/images/3-uygulama-e-ag.png
+.. image:: /_static/images/3-uygulama-e-ag.png
   	:width: 600
+  		
+|  
 
-| .. image:: /_static/images/4-uygulama-e-ag.png
+.. image:: /_static/images/4-uygulama-e-ag.png
   	:width: 600
+  		
+|  
 
-| .. image:: /_static/images/5-uygulama-e-ag.png
+.. image:: /_static/images/5-uygulama-e-ag.png
   	:width: 600
+  		
+|  
 
-| .. image:: /_static/images/6-uygulama-e-ag.png
+.. image:: /_static/images/6-uygulama-e-ag.png
   	:width: 600
+  		
+|  
 
-| .. image:: /_static/images/7-uygulama-e-ag.png
+.. image:: /_static/images/7-uygulama-e-ag.png
   	:width: 600
+  		
+|  
 
-| .. image:: /_static/images/8-uygulama-e-ag.png
+.. image:: /_static/images/8-uygulama-e-ag.png
   	:width: 600
 
 

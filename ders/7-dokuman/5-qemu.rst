@@ -1,7 +1,7 @@
 Qemu Kullanımı
 ==============
 
-| .. image:: /_static/images/1-qemu.jpg
+.. image:: /_static/images/1-qemu.jpg
   	:width: 100
 
 Qemu Nedir?
@@ -82,7 +82,7 @@ ana bilgisayar 10.0.0.2 olarak ayarlıyor.
 
 
 Kaynak:
-https://www.ubuntubuzz.com/2021/04/how-to-boot-uefi-on-qemu.html  
+| https://www.ubuntubuzz.com/2021/04/how-to-boot-uefi-on-qemu.html  
 
 .. raw:: pdf
 
