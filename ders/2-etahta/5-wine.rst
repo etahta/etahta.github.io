@@ -15,6 +15,7 @@ etahta ilk defa açıldığında wine hazır değil. Hazırlamak için aşağıd
 	4- Eğer çalışmama gibi durumlarla karşılaşmanız durumunda;
 
 	.. code-block:: shell
+	
 		sudo rm -rf /opt/windows
                 sudo rm -rf /home/$USER/.wine
 

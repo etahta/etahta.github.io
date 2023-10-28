@@ -1,7 +1,7 @@
 ebaqr Kullanımı
 +++++++++++++++
 
-Burada ebaqr kullanıumı anlatılmıştır.
+Burada ebaqr kullanımı anlatılmıştır.
 ebaqr ile kullanıcı giriş sistemi aşağıdaki resimdeki ekrandan giriş yapılmaktadır.
 
 	.. image:: /_static/images/1-giris-ebaqr.png
@@ -31,6 +31,11 @@ Qr Kod Kullanımı:
 
 - Açılan oturum ebaqr adında oluşturulmuş bir kullanıcıdır. 
 - QR için sadece telefonunda öğretmen hesabı ile açılmış EBA mobil den oturum açılabilir.
+
+- ebaqr kullanıcı şifresi  kurulum sırasında rasgele oluşturulmaktadır.  
+- Şifre değişikliği yapmayınız. Şifre değişirse ebaqr girişi yapılamaz. 
+- Telefon ve tahta aynı ağda olma şartı yoktur.
+- Tahta internetini telefondan paylaşıp bu işlemleri yapabilirsiniz. Tahtaya öncesinde cep telefonu wi-fisini paylaşmış olmanız yeterlidir.
 
 .. raw:: pdf
 

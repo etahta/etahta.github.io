@@ -1,6 +1,7 @@
 qrkod Kullanımı
 +++++++++++++++
 Telefon ile tahtayı açmak için işlem adımları;
+
 1-Tahta açıldığında aşağıdaki gibi bir ekran görünecektir.
 
 .. image:: /_static/images/1-giris-qrkod.png
@@ -44,6 +45,10 @@ Yalnız ve tahta aynı ağa bağlı olmak zorunda(Telefonumuz okulun kablosuz a�
 8-Username kısmına tahtadaki tüm kullanıcılar listelenecektir.
 istediğimiz bir kullanıcıyı seçiyoruz. Aşağıdaki gibi parolasını giriyoruz.
 Login butonuna tıkladığımızda tahta açılacaktır.
+
+9- Telefon ve tahta aynı ağda olmalıdır.
+
+10- Tahta internetini telefondan paylaşıp bu işlemleri yapabilirsiniz. Tahtaya öncesinde cep telefonu wi-fisini paylaşmış olmanız yeterlidir.
 
 .. image:: /_static/images/8-giris-qrkod.jpg
   :width: 600
