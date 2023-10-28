@@ -13,7 +13,7 @@ pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY usbKeyCreater
 
 	pkexec --user root /usr/bin/app şeklinde kullanılabilir.
 	#veya
-	echo password |su -c "pkill -9 java" user
+	echo password | su -c "pkill -9 java" user
 
 
 Açık olan bir kullanıcı ile komut çalıştırma
@@ -21,7 +21,7 @@ Açık olan bir kullanıcı ile komut çalıştırma
 
 .. code-block:: shell
 
-	echo password |su -c "pkill -9 java" $(whoami)
+	echo password | su -c "pkill -9 java" $(whoami)
 
 Desktop Dosyasından Çalıştırma
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

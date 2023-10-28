@@ -23,25 +23,25 @@ e-tahta Yazılımı ile Yapılabilecekler;
 
 | Uygulama Görünümü
 
-	.. image:: /_static/images/1-uygulama-e-tahta.png
+	| .. image:: /_static/images/1-uygulama-e-tahta.png
   		:width: 600
   
-  	.. image:: /_static/images/2-uygulama-e-tahta.png
+  	| .. image:: /_static/images/2-uygulama-e-tahta.png
   		:width: 600
   
-  	.. image:: /_static/images/3-uygulama-e-tahta.png
+  	| .. image:: /_static/images/3-uygulama-e-tahta.png
   		:width: 600
   
-  	.. image:: /_static/images/4-uygulama-e-tahta.png
+  	| .. image:: /_static/images/4-uygulama-e-tahta.png
   		:width: 600
   
-  	.. image:: /_static/images/5-uygulama-e-tahta.png
+  	| .. image:: /_static/images/5-uygulama-e-tahta.png
   		:width: 600
   
-  	.. image:: /_static/images/6-uygulama-e-tahta.png
+  	| .. image:: /_static/images/6-uygulama-e-tahta.png
   		:width: 600
   
-  	.. image:: /_static/images/7-uygulama-e-tahta.png
+  	| .. image:: /_static/images/7-uygulama-e-tahta.png
   		:width: 600
 
 .. raw:: pdf
