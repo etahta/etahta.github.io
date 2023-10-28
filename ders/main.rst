@@ -18,7 +18,7 @@ Sitem İçerik Bilgisi
 	- Temel Yazıcı ayarları yüklü.
 	- Ofis olarak Onlyoffice kurulu.  
 	- Komutlar için betik yükleyici yüklenmiştir.
-	- Flaspalyer yürütücü yüklenmiştir.
+	- Flasplayer yürütücü yüklenmiştir.
 
 Kaynak kod ve dokümanlarımız yansılarımız:
 
