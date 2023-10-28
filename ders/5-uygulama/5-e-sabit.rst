@@ -1,7 +1,7 @@
 e-sabit
 =======
 
-| .. image:: /_static/images/0-uygulama-e-sabit.svg
+.. image:: /_static/images/0-uygulama-e-sabit.svg
   	:width: 100
 
 
@@ -20,12 +20,12 @@ Kullanıcı bilgilerinin yedeğini alarak sistemin her açılışında yedeklene
   		
 |  
 
- .. image:: /_static/images/3-uygulama-e-sabit.png
+.. image:: /_static/images/3-uygulama-e-sabit.png
   	:width: 600
   		
 |  
 
- .. image:: /_static/images/4-uygulama-e-sabit.png
+.. image:: /_static/images/4-uygulama-e-sabit.png
   	:width: 600
 
 
@@ -34,7 +34,7 @@ Kullanıcı bilgilerinin yedeğini alarak sistemin her açılışında yedeklene
   		
 |  
 
- .. image:: /_static/images/6-uygulama-e-sabit.png
+.. image:: /_static/images/6-uygulama-e-sabit.png
   	:width: 600
 
 

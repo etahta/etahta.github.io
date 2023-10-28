@@ -3,7 +3,7 @@ e-ag
 
 Yerel bir ağdaki(lan) bilgisayarların kontrol ve yönetimini yapabileceğiniz veyon, epostes vb. bir yazılım. 
 
-| .. image:: /_static/images/0-uygulama-e-ag.svg
+.. image:: /_static/images/0-uygulama-e-ag.svg
   	:width: 100
 
 Yazılımla yapabilecekleriniz;
