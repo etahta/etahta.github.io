@@ -14,7 +14,7 @@ Debian Tabanlı Sistemlerde Kullanılmak Üzere Kodlanmış Zamanlanmış görev
   		
 |  
 
-.. image:: /_static/images/2-uygulama-zamanligorevl.png
+.. image:: /_static/images/2-uygulama-zamanligorev.png
   	:width: 600
   		
 |  
