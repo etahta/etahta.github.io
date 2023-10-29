@@ -8,7 +8,11 @@ Hataları bulmak için yapılan işlemlere **hata ayıklama** denir.
 Hata Ayıklama
 +++++++++++++
 
-Hata ayıklamak için terminali kullanacağız. Bu örnekte kalem.exe dosyası kullanılacak.
+- Hata ayıklamak için terminali kullanacağız. Bu örnekte kalem.exe dosyası kullanılacak. 
+- Bu sayfadaki bilgileri kullanarak çözüm bulamassanız **zkitap** analiz parogramı(binwalk) ile test ediniz.
+- Z kitaplarda sorunsuz çalıştırmak için windows sürümlerini tercih ediniz. 
+- Pardus ve etap sürümleri sadece z kitabın paketlendiği imaj üzerinde çalışacaktır. 
+- Bundan dolayı farklı imajlarda çalışmamaktadır.
 
 Wine Kurulumu
 ^^^^^^^^^^^^^
