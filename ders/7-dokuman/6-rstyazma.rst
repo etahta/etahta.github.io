@@ -3,7 +3,9 @@ Rst Yazı Yazma
 
 Rst formatında yazı yazmak için yazım kuralları şunlardır.
 
-usage 		syntax 				HTML rendering
+
+.. code-block:: shell
+
 - italic 		*italic* 		italic
 - bold 		**bold** 			bold
 - link 		`python <www.python.org>`_ 	python
@@ -24,6 +26,8 @@ Normalde belirli karakterlere atanmış başlık düzeyleri yoktur. Yapı, başl
 
 
 
+.. code-block:: shell
+
 - # üst çizgili, parçalar için
 * * üst çizgili, bölümler için
 * = , bölümler için
@@ -34,6 +38,8 @@ Normalde belirli karakterlere atanmış başlık düzeyleri yoktur. Yapı, başl
 
 Maddelendirmeler
 ----------------
+
+.. code-block:: shell
 
 * Bu madde işaretli bir listedir.
  *İki öğesi var, ikincisi
@@ -48,13 +54,16 @@ Maddelendirmeler
 Kod Paylaşma
 ------------
 
+.. code-block:: shell
+
 .. code-block:: html
    :linenos:
-
    <h1>code block example</h1>
    
 Resim
 -----
+
+.. code-block:: shell
 
 .. image:: stars.jpg
     :width: 200px
@@ -65,9 +74,12 @@ Resim
 İndirme
 -------
 
-İndirme linki vermek iiçin;
+İndirme linki vermek için;
 
-| :download:`download samplet.py <sample.py>`
+.. code-block:: shell
+
+:download:`download samplet.py <sample.py>`
+
 
 `Kaynak: <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_ 
 
