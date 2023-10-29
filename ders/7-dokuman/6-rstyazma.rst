@@ -69,6 +69,7 @@ Resim
 
 | :download:`download samplet.py <sample.py>`
 
+`Kaynak: <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_ 
 
 .. raw:: pdf
 
