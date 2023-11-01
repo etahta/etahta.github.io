@@ -3,6 +3,9 @@
 # For the full list of built-in configuration values, see the documentation:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
+html_theme = 'alabaster'
+
+
 project = 'etahta Wiki'
 copyright = 'etahta 2023'
 author = 'etahta'
@@ -26,7 +29,9 @@ pdf_fit_mode = "shrink"
 # -- Options for HTML output --
 
 html_baseurl = 'https://etahta.github.io/'
-html_theme = 'alabaster'
+#html_theme = 'alabaster'
+
+
 html_static_path = ['_static']
 html_theme_options = {
     'font_family' : 'monospace',

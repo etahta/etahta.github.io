@@ -7,7 +7,7 @@ Bu dağıtım tahtalarda açık kaynaklı sistemleri kullanarak hızlı ve prati
 
 * Öğretmenlerin temel ihtiyaçları hedeflenerek planlanlanmıştır.
 
-Sitem İçerik Bilgisi
+Sistem İçerik Bilgisi
 ^^^^^^^^^^^^^^^^^^^^
 	
 	- Amd işlemci dışındaki faz1-2-3 tüm tahtalarda çalışmaktadır.
@@ -23,5 +23,5 @@ Sitem İçerik Bilgisi
 Kaynak kod ve dokümanlarımız yansılarımız:
 
 * https://github.com/etahta/etahta.github.io adresine pull request gönderebilirsiniz.
-* https://etahta.github.io/rst2pdf.pdf adresinden çevirimdışı pdf formatında da erişebilirsiniz.
+* https://etahta.github.io/etahta.pdf adresinden çevirimdışı pdf formatında da erişebilirsiniz.
 * https://bayramkarahan.blogspot.com
