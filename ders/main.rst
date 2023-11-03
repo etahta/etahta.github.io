@@ -8,7 +8,7 @@ Bu dağıtım tahtalarda açık kaynaklı sistemleri kullanarak hızlı ve prati
 * Öğretmenlerin temel ihtiyaçları hedeflenerek planlanlanmıştır.
 
 Sistem İçerik Bilgisi
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^
 	
 	- Amd işlemci dışındaki faz1-2-3 tüm tahtalarda çalışmaktadır.
 	- Ebaqr ile giriş yapılabilir.
