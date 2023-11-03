@@ -58,7 +58,21 @@ Efivars'a erişmek, EFI ayarlarını kontrol etmek veya değiştirmek için kull
 Linuxta Uefi Alanı Silme
 ++++++++++++++++++++++++
 
-Bu işlem için aşağıdaki komutları kullanabilirsiniz. Aşağıdaki komutları uygulamak uefi alanı tamamen siler. Bu komutlardan sonra sisteme yeniden sistem kurmak zorunda kalırsınız. Bundan dolayı bu komutları uefi alanda sorun olduğunda ve sistem açılmadığında, canlı sistemler üzerinden yapmanızı tavsiye ederim. Çalışan bir sisteme yapmayınız.
+* efibootmgr komutu çalıştırarak entryleri listeleyin,
+
+.. image:: /_static/images/1-dokuman-uefi.png
+	:width: 300
+
+efibootmgr -B -b xxxx yaparak entry silin xxxx için bir önceki çıktıdaki değerlere bakarak yazmalısınız.
+
+.. image:: /_static/images/2-dokuman-uefi.png
+	:width: 300
+
+Eğer yanlışlıkla pardus entrysini silerseniz isosunu canlı olarak başlatıp başlangıç onarmadan grubu tekrar yükleyi seçebilirsiniz. Windows için olanı silerseniz windowsu tekrar kurmanız gerekebilir.
+ 
+Bu komutlardan sonra sisteme yeniden sistem kurmak zorunda kalabilirsiniz. Bundan dolayı bu komutları uefi alanda sorun olduğunda ve sistem açılmadığında, canlı sistemler üzerinden yapmanızı tavsiye ederim.
+
+Alternatif olarak aşağıdaki komutlarıda kullanarak UEFI bilgilerini silebilirsiniz.
 
 .. code-block:: shell
 
