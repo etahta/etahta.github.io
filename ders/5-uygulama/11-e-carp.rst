@@ -19,8 +19,6 @@ e-carp mantık oyunu.
 
 
 Paket Ve Kod
-++++++++++++
-
 | e-carp paket ve kaynak kodları için `tıklayınız. <https://github.com/bayramkarahan/e-carp>`_
 | e-carp imajı için e-kilit `indir. <https://github.com/bayramkarahan/e-carp/raw/master/e-carp_1.0.0_amd64.deb>`_
 

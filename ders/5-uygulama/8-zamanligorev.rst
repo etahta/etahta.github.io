@@ -40,8 +40,6 @@ Debian Tabanlı Sistemlerde Kullanılmak Üzere Kodlanmış Zamanlanmış görev
 
 
 Paket Ve Kod
-++++++++++++
-
 | zamanligorev paket ve kaynak kodları için `tıklayınız. <https://github.com/bayramkarahan/zamanligorev>`_
 | zamanligorev paketini indirmek için `tıklayınız. <https://github.com/bayramkarahan/zamanligorev/raw/master/zamanligorev_1.4.0_amd64.deb>`_
 

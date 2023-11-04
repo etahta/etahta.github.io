@@ -77,8 +77,6 @@ Terminalde örneklerde gösterilen komut çalıştırılarak görev tanımlamas�
 
 
 Paket Ve Kod
-++++++++++++
-
 | usbkeycreaterusers paket ve kaynak kodları için `tıklayınız. <https://github.com/bayramkarahan/usbkeycreaterusers>`_
 | usbkeycreaterusers imajı için usbkeycreaterusers `indir. <https://github.com/bayramkarahan/usbkeycreaterusers/raw/master/usbkeycreaterusers_1.5.0_amd64.deb>`_
 

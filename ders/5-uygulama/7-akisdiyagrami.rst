@@ -23,8 +23,6 @@ Programlama için temel basamaklardan olan **akış diyagramı** nı bilgisayar 
 
 
 Paket Ve Kod
-++++++++++++
-
 | akisdiyagram paket ve kaynak kodları için `tıklayınız. <https://github.com/bayramkarahan/akisdiyagram>`_
 | p19-p21 imaj için akisdiyagram `indir.. <https://github.com/bayramkarahan/akisdiyagram/raw/master/akisdiyagram_1.3_amd64-p19-p21.deb>`_
 | p23 ve etahta imajı için akisdiyagram `indir. <https://github.com/bayramkarahan/akisdiyagram/raw/master/akisdiyagram_1.3_amd64.deb>`_

@@ -56,8 +56,6 @@ e-tahta Yazılımı ile Yapılabilecekler;
 
 
 Paket Ve Kod
-++++++++++++
-
 | e-tahta paket ve kaynak kodları için `tıklayınız. <https://github.com/bayramkarahan/e-tahta>`_
 | Faz3 için; Kurulum paketi için `tıklayınız. <https://github.com/bayramkarahan/e-tahta-p19/raw/master/e-tahta_1.8.8_amd64.deb>`_
 | pardus21 için; Kurulum paketi için `tıklayınız. <https://github.com/bayramkarahan/e-tahta/raw/master/e-tahta_1.8.8_amd64-p21.deb>`_

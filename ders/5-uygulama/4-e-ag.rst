@@ -65,8 +65,6 @@ Yazılımla yapabilecekleriniz;
 
 
 Paket Ve Kod
-++++++++++++
-
 | e-ag paket ve kaynak kodları için `tıklayınız. <https://github.com/bayramkarahan/e-ag>`_
 | Faz3, Pardus19 ve Pardus21  server yazımı için `tıklayınız. <https://github.com/bayramkarahan/e-ag/raw/master/e-ag_2.2.0_amd64-p19-21.deb>`_ 
 | Pardus23  server yazımı için `tıklayınız. <https://github.com/bayramkarahan/e-ag/raw/master/e-ag_2.2.0_amd64.deb>`_

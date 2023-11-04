@@ -15,8 +15,6 @@ Uygulama içeriğine yeni eklemeler yaptığımızda program internet üzerinden
 
 
 Paket Ve Kod
-++++++++++++
-
 | betikyukleyici paket ve kaynak kodları için `tıklayınız. <https://github.com/bayramkarahan/betikyukleyici>`_
 | betikyukleyici paketini indirmek için `tıklayınız. <https://github.com/bayramkarahan/betikyukleyici/raw/master/betikyukleyici_1.5.0_amd64.deb>`_
 
