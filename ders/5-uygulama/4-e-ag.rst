@@ -64,6 +64,22 @@ Yazılımla yapabilecekleriniz;
   	:width: 600
 
 
+Paket Ve Kod
+++++++++++++
+
+| e-ag paket ve kaynak kodları için `tıklayınız. <https://github.com/bayramkarahan/e-ag>`_
+| Faz3, Pardus19 ve Pardus21  server yazımı için `tıklayınız. <https://github.com/bayramkarahan/e-ag/raw/master/e-ag_2.2.0_amd64-p19-21.deb>`_ 
+| Pardus23  server yazımı için `tıklayınız. <https://github.com/bayramkarahan/e-ag/raw/master/e-ag_2.2.0_amd64.deb>`_
+| Faz1-2  server yazımı için `tıklayınız. <https://github.com/bayramkarahan/e-ag/raw/master/e-ag_2.1.0_amd64-faz12.deb>`_
+
+| Faz3, Pardus19 client yazımı için `tıklayınız. <https://github.com/bayramkarahan/e-ag-client_old/raw/master/e-ag-client_2.2.0_amd64-p19.deb>`_
+| Pardus23 client yazımı için `tıklayınız. <https://github.com/bayramkarahan/e-ag-client_old/raw/master/e-ag-client_2.2.0_amd64.deb>`_
+| Faz1 ve Faz2 client için `tıklayınız. <https://github.com/bayramkarahan/e-ag-client_old/raw/master/e-ag-client_2.1.0_amd64-faz12.deb>`_
+
+| Faz3, Pardus19 ve Pardus21 x11client yazımı için `tıklayınız. <https://github.com/bayramkarahan/e-ag-x11client/raw/master/e-ag-x11client_2.2.0_amd64-p19-p21.deb>`_
+| Pardus23  x11client yazımı için `tıklayınız. <https://github.com/bayramkarahan/e-ag-x11client/raw/master/e-ag-x11client_2.2.0_amd64.deb>`_
+| Faz1 ve Faz2 x11client için `tıklayınız. <https://github.com/bayramkarahan/e-ag-x11client/raw/master/e-ag-x11client_2.1.0_amd64-faz12.deb>`_
+
 .. raw:: pdf
 
    PageBreak

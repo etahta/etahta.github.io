@@ -75,6 +75,13 @@ Aşağıdaki aşamaları sırasıyla uygulayarak usb disk hazırlanabilir.
 Yukarıdaki örnekleri veya başka bir işi yapacak komutları çalıştırabilirsiniz. Kurulduğunda varsayılan olarak ilk örnek çalışacak şekilde ayarlanmıştır.
 Terminalde örneklerde gösterilen komut çalıştırılarak görev tanımlaması yapabilirsiniz.
 
+
+Paket Ve Kod
+++++++++++++
+
+| usbkeycreaterusers paket ve kaynak kodları için `tıklayınız. <https://github.com/bayramkarahan/usbkeycreaterusers>`_
+| usbkeycreaterusers imajı için usbkeycreaterusers `indir. <https://github.com/bayramkarahan/usbkeycreaterusers/raw/master/usbkeycreaterusers_1.5.0_amd64.deb>`_
+
 .. raw:: pdf
 
    PageBreak

@@ -18,12 +18,12 @@ MBR-GPT
 Yukarıdaki resimde ventoyu oluştururken nelere dikkat etmemiz gerektiğini gösteren ifadeler bulunmaktadır. Bu durumları detaylıca anlatalım.
 
 
-MBR mi Kullanılmalı?
+MBR mi?
 ++++++++++++++++++++
 
 2GB'dan daha düşükse usb diskimiz MBR yapılabilir. Burada acaba UEFI destekler mi? Destekler ancak UEFI donanım yazılımının yalnızca GPT biçimindeki diski tanıdığı bazı makineler vardır, bu nedenle MBR bu durumda uyumlu OLMAYACAKTIR.
 
-GPT mi Kullanılmalı?
+GPT mi?
 ++++++++++++++++++++
 
 2GB'dan daha yüksekse usb diskimiz GPT yapılabilir. GPT, UEFI özelliklerinin bir parçasıdır, dolayısıyla GPT, herhangi bir uyumluluk sorunu olmadan UEFI'yi destekler.

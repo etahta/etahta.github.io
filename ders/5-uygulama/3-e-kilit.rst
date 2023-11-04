@@ -1,6 +1,9 @@
 e-kilit
 =======
 
+.. image:: /_static/images/0-uygulama-e-kilit.svg
+  	:width: 100
+
 Tahtalarda QR Kod ile tahtayı açıp kapattığımız bir uygulamadır.
 Uygulamayı kullanabilmek için;
 
@@ -15,8 +18,12 @@ Uygulamayı kullanabilmek için;
 .. image:: /_static/images/1-uygulama-e-kilit.png
 	:width: 600
 
+Paket Ve Kod
+++++++++++++
 
-
+| e-kilit paket ve kaynak kodları için `tıklayınız. <https://github.com/bayramkarahan/e-kilit>`_
+| etap imaj için e-kilit `indir.. <https://github.com/bayramkarahan/e-kilit/raw/master/e-kilit_4.8.1-kde.deb>`_
+| e-kilit imajı için e-kilit `indir. <https://github.com/bayramkarahan/e-kilit/raw/master/e-kilit_4.8.1_amd64-testing.deb>`_
 
 .. raw:: pdf
 

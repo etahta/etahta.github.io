@@ -39,6 +39,12 @@ Okullarda linux tabanlı çalışacak zil uygulaması.
   	:width: 600
   		
 
+Paket Ve Kod
+++++++++++++
+
+| e-zil paket ve kaynak kodları için `tıklayınız. <https://github.com/bayramkarahan/e-zil>`_
+| e-zil `indir. <https://github.com/bayramkarahan/e-zil/raw/master/e-zil_2.8.0_amd64.deb>`_
+
 .. raw:: pdf
 
    PageBreak

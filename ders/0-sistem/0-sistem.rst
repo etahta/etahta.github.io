@@ -11,35 +11,22 @@ Sistem Hakkında
     .. image:: /_static/images/5-etahta.png
     	:width: 600
 
-Sistem Açıklamaları
-^^^^^^^^^^^^^^^^^^^
-    0- AMD olmayan Faz1, Faz2 ve Faz3 tahtalarda kullanılabilir.
-
-    1- e-kilit sistemine ihtiyaç olmayacak şekilde tasarlandı(girişe iki farklı qr uygulaması eklendi)
-
-    2- EbaQr ile sisteme giriş sistemi eklendi.
-  
-    3- Qr ile sistemdeki kullanıcılardan birini seçerek telefon ile giriş eklendi
-  
-    4- 3 farklı kalem eklendi(e-tahta, parduspen, fatih kalem)
-
-    5- Klavye yenilendi.
-
-    6- Wine kurulu(Tüm kullanıcılarda geçerli olan ayalarla çalışmaktadır)
-     
-    7- Java dosyaları çalışır hale getirildi
-
-    8- Flash(swf)dosyaları çalışır hale getirildi 
-
-    9- Ağ kontrol sistemi yüklenmiştir(client olarak) 
-
-    10- Only Ofis kurulu.
-    
-    11- Sağ tuş iki parmak dokunuşudur.
-
-    12- **etapadmin ve ogretmen kullanıcı parolaları "1" dir.** İlk açıldığında şifre değiştirme için uygulama açılacaktır.
- 
-    13- Usb Anahtar Oluşturma ve Usb ile Açma yazılımı imaj içinde mevcuttur.
+Açıklamalar
+^^^^^^^^^^^
+    - AMD olmayan Faz1, Faz2 ve Faz3 tahtalarda kullanılabilir.
+    - e-kilit sistemine ihtiyaç olmayacak şekilde tasarlandı(girişe iki farklı qr uygulaması eklendi)
+    - EbaQr ile sisteme giriş sistemi eklendi.
+    - Qr ile sistemdeki kullanıcılardan birini seçerek telefon ile giriş eklendi
+    - 3 farklı kalem eklendi(e-tahta, parduspen, fatih kalem)
+    - Klavye yenilendi.
+    - Wine kurulu(Tüm kullanıcılarda geçerli olan ayalarla çalışmaktadır)  
+    - Java dosyaları çalışır hale getirildi
+    - Flash(swf)dosyaları çalışır hale getirildi 
+    - Ağ kontrol sistemi yüklenmiştir(client olarak) 
+    - Only Ofis kurulu.  
+    - Sağ tuş iki parmak dokunuşudur.
+    - **etapadmin ve ogretmen kullanıcı parolaları "1" dir.** İlk açıldığında şifre değiştirme için uygulama açılacaktır.
+    - Usb Anahtar Oluşturma ve Usb ile Açma yazılımı imaj içinde mevcuttur.
 
 .. raw:: pdf
 
