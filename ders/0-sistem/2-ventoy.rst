@@ -32,11 +32,20 @@ Ancak Legacy(Eski BIOS) için bazı makinelerde bazı uyumluluk sorunları olabi
 Ne Yapmalıyım
 +++++++++++++
 
-Buradaki bilgileri yukarıdaki resimdeki bilgilere göre yorumladık.
+Burada verilen bilgileri yukarıda gösterilen resimdeki tablodan yorumladık. Bu resim ventoyun resmi sitesinden alınmıştır.
 Neticede ne yapmamız gerektiği konusunu şu şeklide ifade edebiliriz.
 
 * MBR hazırlanan USB diskler bazı bilgisayarlarda UEFI kurulumu yapamayabilir.
 * UEFI hazırlanan USB diskler bazı bilgisayarlarda Legacy(Eski Bios) kurulum yapamayabilir.
+
+Bu durumda dört ihtimal oluşuyor.
+
+	* Legacy(Eski Bios)
+		- MBR Olarak hazırlanan Ventoy :	Kurulur.
+		- UEFI Olarak hazırlanan Ventoy:	Kurulmayabilir.
+	* UEFI(Yeni Bios)
+		- MBR Olarak hazırlanan Ventoy :	Kurulmayabilir.
+		- GPT Olarak hazırlanan Ventoy :	Kurulur.
 
 En garanti yöntem iki farklı USB hazırlamak. USB'nin birisi MBR, diğerini ise GPT olarak hazırlamalıyız.
 

@@ -11,16 +11,16 @@ UsbDisk Hazırlama
 ^^^^^^^^^^^^^^^^^
 
 Ventoy
-++++++
+------
 
-* imajı yüklemek için usb disk ventoy ile hazırlanabilir. Ventoy kullanmak ve usb disk hazırlamak için ventoy kullanım rehberine `bakınız. <2-ventoy.html>`_
-* `Ventoy indirmek için tıklayınız. <https://www.ventoy.net/en/download.html>`_
+	* imajı yüklemek için usb disk ventoy ile hazırlanabilir. Ventoy kullanmak ve usb disk hazırlamak için ventoy kullanım rehberine `bakınız. <2-ventoy.html>`_
+	* `Ventoy indirmek için tıklayınız. <https://www.ventoy.net/en/download.html>`_
 
 Rufus
-+++++
+-----
 
-* Rufus kullanan ise DD modunda gpt olarak flash belleğe imajı yazdırın
-* Rufus indirmek için `tıklayınız. <https://rufus.ie/tr/#>`_
+	* Rufus kullanan ise DD modunda gpt olarak flash belleğe imajı yazdırın
+	* Rufus indirmek için `tıklayınız. <https://rufus.ie/tr/#>`_
 
 Sistem Kurma
 ^^^^^^^^^^^^
