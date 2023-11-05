@@ -25,6 +25,7 @@ set -ex
 # build
 sh build.sh
 mkdir /output -p
+cp -rf kitap /output
 cp -r build/pdf/* /output/etahta.pdf
 cp -r build/html/* /output
 cp robots.txt /output
