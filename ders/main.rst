@@ -23,5 +23,5 @@ Sistem İçerik Bilgisi
 Kaynak kod ve dokümanlarımız yansılarımız:
 
 * https://github.com/etahta/etahta.github.io adresine pull request gönderebilirsiniz.
-* Bu sitedeki bilgilerin pdf kitap hali için `tıklayınız.< https://etahta.github.io/kitap>`_
+* Bu sitedeki bilgilerin pdf kitap hali için `tıklayınız. <https://etahta.github.io/kitap>`_
 * https://bayramkarahan.blogspot.com
