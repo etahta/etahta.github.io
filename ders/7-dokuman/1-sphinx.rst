@@ -28,15 +28,15 @@ Projeye uygun bir dizin açalım. Dizin içinde terminali açalım.
 
     sphinx-quickstart #komutunu çalıştıralım.
 
-| .. image:: /_static/images/1-sphinx.png
+.. image:: /_static/images/1-sphinx.png
   	:width: 600
 
 Bu komut sonrasında proje ile ilgili tanımlamaları soracaktır. İşlemleri tamamladığımızda bize ayar dosyalarını oluşturacaktır.
 
-| .. image:: /_static/images/2-sphinx.png
+.. image:: /_static/images/2-sphinx.png
   	:width: 600
 
-| .. image:: /_static/images/3-sphinx.png
+.. image:: /_static/images/3-sphinx.png
   	:width: 600
 
 Belge dosyalarınızı oluşturun veya mevcut belgelerinizi Sphinx formatına dönüştürün.
@@ -51,12 +51,10 @@ Belgeyi oluşturun:
     #veya
     make pdf #rst formatındaki dosyaları pdf olarak oluşturuyor.
 
-
-| .. image:: /_static/images/4-sphinx.png
+.. image:: /_static/images/4-sphinx.png
   	:width: 600
 
-
-| .. image:: /_static/images/5-sphinx.png
+.. image:: /_static/images/5-sphinx.png
   	:width: 600
 
 Oluşturulan belgeleri kontrol edin ve dağıtım için hazır hale getirin.
