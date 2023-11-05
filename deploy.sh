@@ -23,6 +23,7 @@ set -ex
 #mv dejavu-*/ttf /usr/share/fonts/
 #fc-cache -fv
 # build
+#rm -rf /build/*
 sh build.sh
 mkdir /output -p
 cp -rf kitap /output

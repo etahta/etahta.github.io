@@ -13,7 +13,6 @@ Kaynaktan dosyalarından kurulum için;
 
 .. code-block:: shell
 
-
 	git clone https://gitlab.com/qemu-project/qemu.git
 	cd qemu
 	./configure
@@ -23,7 +22,6 @@ Kaynaktan dosyalarından kurulum için;
 	
 Sisteme Kurulum
 +++++++++++++++
-
 
 .. code-block:: shell
 
@@ -49,12 +47,10 @@ Sisteme Kurulum
 	
 	qemu-system-x86_64 -m 2G -cdrom etahta.iso          #sadece iso doayası ile çalıştırma
 
-
 Sistem Hızlandırılması
 ++++++++++++++++++++++
 
 **--enable-kvm** eğer sistem disk ile çalıştırıldığında bu parametre eklenmezse yavaş çalışacaktır.
-
 
 Boot Menu Açma
 ++++++++++++++
@@ -64,7 +60,6 @@ Sistemin diskten mi imajdan mı başlayacağını başlangıçta belilemek için
 .. code-block:: shell
 	
 	qemu-system-x86_64 --enable-kvm -cdrom distro.iso -hda disk.img -m 4G -boot menu=on  
-
 
 Uefi kurulum için:
 ++++++++++++++++++
@@ -79,7 +74,6 @@ qemu Host Erişimi:
 kendi ipsi:10.0.2.15 
 
 ana bilgisayar 10.0.0.2 olarak ayarlıyor.
-
 
 Kaynak:
 | https://www.ubuntubuzz.com/2021/04/how-to-boot-uefi-on-qemu.html  

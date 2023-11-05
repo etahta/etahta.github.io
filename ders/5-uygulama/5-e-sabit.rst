@@ -39,8 +39,9 @@ Kullanıcı bilgilerinin yedeğini alarak sistemin her açılışında yedeklene
 
 
 Paket Ve Kod
-| e-sabit paket ve kaynak kodları için `tıklayınız. <https://github.com/bayramkarahan/e-sabit>`_
-| e-sabit `indir. <https://github.com/bayramkarahan/e-sabit/raw/master/e-sabit_2.2.0_amd64.deb>`_
+
+| * e-sabit paket ve kaynak kodları için `tıklayınız. <https://github.com/bayramkarahan/e-sabit>`_
+| * e-sabit `indir. <https://github.com/bayramkarahan/e-sabit/raw/master/e-sabit_2.2.0_amd64.deb>`_
 
 .. raw:: pdf
 

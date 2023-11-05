@@ -14,11 +14,6 @@ Kurulum için deb paketini indirip kurununuz.
 
 Aşağıdaki aşamaları sırasıyla uygulayarak usb disk hazırlanabilir.
 
-| Menuden Donatılar altında UsbAnahtar uygulaması seçilir
-
-	.. image:: /_static/images/1-usbkey.png   
-  		:width: 600
-
 | Yönetici şifresini girerek uygulama açılır.
 
 	.. image:: /_static/images/2-usbkey.png

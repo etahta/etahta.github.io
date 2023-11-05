@@ -7,15 +7,15 @@ Temel kullanımı
 +++++++++++++++
 
 .. code-block:: shell
-
-grep "aranacak_desen" dosya_adı
+	
+	grep "aranacak_desen" dosya_adı
 
 Örneğin, "dosya" adlı bir metin dosyasında "merhaba" kelimesini aramak istediğimizi varsayalım. Aşağıdaki komutu kullanabiliriz:
 
 
 .. code-block:: shell
-
-grep "merhaba" dosya.
+	
+	grep "merhaba" dosya.
 
 grep komutu, dosya içinde "merhaba" kelimesini içeren tüm satırları ekrana yazdıracaktır.
 
@@ -24,7 +24,7 @@ Ayrıca, grep komutunu kullanırken bazı seçenekler de belirleyebilirsiniz. Ö
 
 .. code-block:: shell
 
-grep -i "merhaba" dosya
+	grep -i "merhaba" dosya
 
 Bu komut, "merhaba" kelimesini büyük/küçük harf farkı olmaksızın arayacak ve eşleşen tüm satırları ekrana yazdıracaktır.
 
@@ -39,10 +39,8 @@ Bazen dosya içerisinde farklı kelimelerin geçtiği tüm satırları görmek i
 grep komutunu kullanırken birden fazla ifade ile arama yapmak için “-e” opsiyonu kullanılabilir.
 
 .. code-block:: shell
-
-grep  -e bash -e ahmet -e mehmet /etc/passwd
-
-
+	
+	grep  -e bash -e ahmet -e mehmet /etc/passwd
 
 .. raw:: pdf
 
