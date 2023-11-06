@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+
+<html lang="tr" data-content_root="../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+    <title>z Kitap Hata Ayıklama &#8212; etahta Wiki  belgelendirmesi</title>
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=c2caf74b" />
+    <link rel="stylesheet" type="text/css" href="../_static/alabaster.css?v=4681ae81" />
+    <script src="../_static/documentation_options.js?v=622dbbea"></script>
+    <script src="../_static/doctools.js?v=888ff710"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/translations.js?v=34f4c3a9"></script>
+    <link rel="canonical" href="https://etahta.github.io/3-wine/2-zkitaphataayıklama.html" />
+    <link rel="index" title="Dizin" href="../genindex.html" />
+    <link rel="search" title="Ara" href="../search.html" />
+    <link rel="next" title="z Kitap Parçalama" href="3-kitappar%C3%A7calama.html" />
+    <link rel="prev" title="Wine Ayarlama" href="1-wineayarlama.html" />
+   
+  <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="z-kitap-hata-ayiklama">
+<h1>z Kitap Hata Ayıklama<a class="headerlink" href="#z-kitap-hata-ayiklama" title="Link to this heading">¶</a></h1>
+<p>wine üzerinden çalışan <strong>exe</strong> uygulamalar her zaman istenildiği gibi çalışmayabilir.
+Bu hataların bir çok sebebi olabilir. Bu hataları tahmin etmek elbette zordur.
+Hataları bulmak için yapılan işlemlere <strong>hata ayıklama</strong> denir.</p>
+<section id="hata-ayiklama">
+<h2>Hata Ayıklama<a class="headerlink" href="#hata-ayiklama" title="Link to this heading">¶</a></h2>
+<ul class="simple">
+<li><p>Hata ayıklamak için terminali kullanacağız. Bu örnekte kalem.exe dosyası kullanılacak.</p></li>
+<li><p>Bu sayfadaki bilgileri kullanarak çözüm bulamassanız <strong>zkitap</strong> analiz parogramı(binwalk) ile test ediniz.</p></li>
+<li><p>Z kitaplarda sorunsuz çalıştırmak için windows sürümlerini tercih ediniz.</p></li>
+<li><p>Pardus ve etap sürümleri sadece z kitabın paketlendiği imaj üzerinde çalışacaktır.</p></li>
+<li><p>Bundan dolayı farklı imajlarda çalışmamaktadır.</p></li>
+</ul>
+<section id="wine-kurulumu">
+<h3>Wine Kurulumu<a class="headerlink" href="#wine-kurulumu" title="Link to this heading">¶</a></h3>
+<p>wine kurulmuş mu? Öğrenmek için;</p>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>wine
+wine<span class="w"> </span>--version
+</pre></div>
+</div>
+<p>Eğer hatasız bir şekilde kurulu ise versiyon numarasını verecektir. Alttaki resimde wine kurulu ve versiyonunu öğrendik.</p>
+<a class="reference internal image-reference" href="../_images/1-wine-hata.png"><img alt="../_images/1-wine-hata.png" src="../_images/1-wine-hata.png" style="width: 600px;" /></a>
+</section>
+<section id="wine-hazirlanmis-mi">
+<h3>Wine Hazırlanmış Mı?<a class="headerlink" href="#wine-hazirlanmis-mi" title="Link to this heading">¶</a></h3>
+<p>wine eğer özel bir ayar yapılmamışsa otutum açtığınız ev dizininde .wine dizinine ayarlar. .wine dizini o kullanıcıya ait bilgileri barındırır.
+Eğer diğer kullanıcılarında kullanmasını istersek ev dizini dışında bir dizine .wine dizini oluşturmak ve paylaştırmka gerekir. Aşağıdaki resimde ev dizininde .wine dizini olduğunu görüyoruz. Eğer yoksa bir <strong>exe</strong> dosya çalıştırınca ev dizinine oluşacaktır.</p>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>ls<span class="w"> </span>~/.wine
+</pre></div>
+</div>
+<a class="reference internal image-reference" href="../_images/2-wine-hata.png"><img alt="../_images/2-wine-hata.png" src="../_images/2-wine-hata.png" style="width: 600px;" /></a>
+</section>
+<section id="wine-kitap-calistirma">
+<h3>Wine Kitap Çalıştırma<a class="headerlink" href="#wine-kitap-calistirma" title="Link to this heading">¶</a></h3>
+<p>Terminalden çalıştırınca birçok hata ve çıktı verecektir. Exe uygulamamız çalışsa bile birçok çıktı verecektir. Eğer hata varsa onlarıda göreceğiz. Eğer hata görüyorsak artık çözümünü araştırabiliriz. Aşağıda exe dosya çalışınca oluşan çıktıyı görmekteyiz.</p>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>wine<span class="w"> </span>/usr/bin/kalem.exe
+</pre></div>
+</div>
+<a class="reference internal image-reference" href="../_images/3-wine-hata.png"><img alt="../_images/3-wine-hata.png" src="../_images/3-wine-hata.png" style="width: 600px;" /></a>
+</section>
+</section>
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<p class="logo">
+  <a href="../index.html">
+    <img class="logo" src="../_static/logo.svg" alt="Logo"/>
+    
+  </a>
+</p>
+
+
+
+
+
+
+
+
+<h3>Gezinti</h3>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../0-sistem/index.html">Sistem Bilgisi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../1-giris/index.html">Giriş Seçenekleri</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../2-etahta/index.html">Etahta Ayarları</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="index.html">Wine Ayarları</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="0-winekurulum.html">Wine Nedir</a></li>
+<li class="toctree-l2"><a class="reference internal" href="1-wineayarlama.html">Wine Ayarlama</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">z Kitap Hata Ayıklama</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#hata-ayiklama">Hata Ayıklama</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#wine-kurulumu">Wine Kurulumu</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#wine-hazirlanmis-mi">Wine Hazırlanmış Mı?</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#wine-kitap-calistirma">Wine Kitap Çalıştırma</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="3-kitappar%C3%A7calama.html">z Kitap Parçalama</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../4-yazici/index.html">Yazıcı Ayarları</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../5-uygulama/index.html">Uygulamalar</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../6-kullanici/index.html">Kullanıcı İşlemi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../7-dokuman/index.html">Diğer Konular</a></li>
+</ul>
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;etahta 2023.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 7.2.6</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.13</a>
+      
+      |
+      <a href="../_sources/3-wine/2-zkitaphataayıklama.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+
+<html lang="tr" data-content_root="../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+    <title>Şifre Sıfırlama &#8212; etahta Wiki  belgelendirmesi</title>
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=c2caf74b" />
+    <link rel="stylesheet" type="text/css" href="../_static/alabaster.css?v=4681ae81" />
+    <script src="../_static/documentation_options.js?v=622dbbea"></script>
+    <script src="../_static/doctools.js?v=888ff710"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/translations.js?v=34f4c3a9"></script>
+    <link rel="canonical" href="https://etahta.github.io/6-kullanici/2-parolareset.html" />
+    <link rel="index" title="Dizin" href="../genindex.html" />
+    <link rel="search" title="Ara" href="../search.html" />
+    <link rel="next" title="Diğer Konular" href="../7-dokuman/index.html" />
+    <link rel="prev" title="Parola Değiştirme" href="1-parola.html" />
+   
+  <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="sifre-sifirlama">
+<h1>Şifre Sıfırlama<a class="headerlink" href="#sifre-sifirlama" title="Link to this heading">¶</a></h1>
+<p>Bazı durumlarda sistem kullanıcı şifresi unutulabilir. Bu durumda şifres sıfırlaması yapılır.
+Bu işlem için;</p>
+<p>1- Bilgisayarı açtığınızda karşınıza gelen ilk ekranda (grub) seçeneği üzerindeyken e tuşuna basın</p>
+<p>2- Kernel ile başlayan satırın en sonuna gidin ve bir karekter boşluk bırakdıkdan sonra <em>init=/bin/bash</em> yazın</p>
+<p>3- Enter tuşuna basın sonra da b tuşuna basarak sistemi açın.</p>
+<p>4- Bu işlem sizi direk konsolda root yapacaktır / (root).</p>
+<p>5- Sisteminizi yazılabilir şekilde yükleyin. mount -no remount,rw /</p>
+<p>6- <em>passwd root</em> komutu girin. Sizden yeni yönetici şifresini isteyecek. Yeni root şifresini belirlemiş olacaksınız.</p>
+<p>7- reboot komutu ile bilgisayarınızı tekrar başlatabilirsiniz.</p>
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<p class="logo">
+  <a href="../index.html">
+    <img class="logo" src="../_static/logo.svg" alt="Logo"/>
+    
+  </a>
+</p>
+
+
+
+
+
+
+
+
+<h3>Gezinti</h3>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../0-sistem/index.html">Sistem Bilgisi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../1-giris/index.html">Giriş Seçenekleri</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../2-etahta/index.html">Etahta Ayarları</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../3-wine/index.html">Wine Ayarları</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../4-yazici/index.html">Yazıcı Ayarları</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../5-uygulama/index.html">Uygulamalar</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="index.html">Kullanıcı İşlemi</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="1-parola.html">Parola Değiştirme</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Şifre Sıfırlama</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../7-dokuman/index.html">Diğer Konular</a></li>
+</ul>
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;etahta 2023.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 7.2.6</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.13</a>
+      
+      |
+      <a href="../_sources/6-kullanici/2-parolareset.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
