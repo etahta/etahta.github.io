@@ -10,10 +10,9 @@ e-uctas mantık oyunu.
 
 .. image:: /_static/images/1-uygulama-uctas.png
   	:width: 300
-
 .. image:: /_static/images/2-uygulama-uctas.png
   	:width: 300
-  		
+
 Paket Ve Kod
 
 | * e-uctas paket ve kaynak kodları için `tıklayınız. <https://github.com/bayramkarahan/e-uctas>`_
