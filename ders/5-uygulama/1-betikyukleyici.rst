@@ -10,7 +10,7 @@ Terminal komutlarını kolaylıkla etkileşimli bir şekilde kurmak için geliş
 
 .. image:: /_static/images/2-uygulama-betikyukleyici.png
   	:width: 400
-  	
+
 .. image:: /_static/images/3-uygulama-betikyukleyici.png
   	:width: 400
 
@@ -20,7 +20,7 @@ Uygulama içeriğine yeni eklemeler yaptığımızda program internet üzerinden
 Paket Ve Kod
 
 | * betikyukleyici paket ve kaynak kodları için `tıklayınız. <https://github.com/bayramkarahan/betikyukleyici>`_
-| * betikyukleyici paketini indirmek için `tıklayınız. <https://github.com/bayramkarahan/betikyukleyici/raw/master/betikyukleyici_1.5.0_amd64.deb>`_
+| * betikyukleyici paketini indirmek için `tıklayınız. <https://github.com/bayramkarahan/betikyukleyici/raw/master/betikyukleyici_1.7.0_amd64.deb>`_
 
 .. raw:: pdf
 
