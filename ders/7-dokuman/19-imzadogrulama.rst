@@ -100,13 +100,6 @@ c kullanarak özünde bash komutunu sonucunu kontrol eden imza doğrulaması aş
 	    return 0;
 	}
 
-.. image:: /_static/images/imzadogrulamacpp1.png
-	:width: 600
-
-.. image:: /_static/images/imzadogrulamacpp2.png
-	:width: 600
-
-
 .. raw:: pdf
 
    PageBreak
@@ -116,6 +109,14 @@ c++ libgpgme ile Doğrulama
 
 libgpgme kütüphanalerini kullanarak bir belge doğrulama yapabiliriz.
 
+.. image:: /_static/images/imzadogrulamacpp1.png
+	:width: 600
+
+.. image:: /_static/images/imzadogrulamacpp2.png
+	:width: 600
+
+
+İşlemi yapan kod aşağıdadır.
 
 .. code-block:: shell
 
@@ -283,9 +284,7 @@ libgpgme kütüphanalerini kullanarak bir belge doğrulama yapabiliriz.
 		return 0;
 	} 
 	
+	
 .. raw:: pdf
 
    PageBreak
-   
-
-
