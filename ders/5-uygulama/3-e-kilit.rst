@@ -22,7 +22,7 @@ Paket Ve Kod
 
 | * e-kilit paket ve kaynak kodları için `tıklayınız. <https://github.com/bayramkarahan/e-kilit>`_
 | * etap imaj için e-kilit `indir.. <https://github.com/bayramkarahan/e-kilit/raw/master/e-kilit_4.8.1-kde.deb>`_
-| * e-kilit imajı için e-kilit `indir. <https://github.com/bayramkarahan/e-kilit/raw/master/e-kilit_4.8.1_amd64-testing.deb>`_
+| * etahta imajı için e-kilit `indir. <https://github.com/bayramkarahan/e-kilit/raw/refs/heads/master/e-kilit_4.8.3_amd64.deb>`_
 
 .. raw:: pdf
 
