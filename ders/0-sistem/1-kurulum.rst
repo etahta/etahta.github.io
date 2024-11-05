@@ -25,7 +25,7 @@ Rufus
 Sistem Kurma
 ^^^^^^^^^^^^
 
-Sistem kurlumu **AMD olmayan, İntel Faz1, Faz2 ve Faz3** tahtalarda kullanılabilir.
+Sistem kurlumu **Amd, intel tel Faz1, Faz2 ve Faz3** tahtalarda kullanılabilir.
 	
 Kurulum İşlemi
 ++++++++++++++

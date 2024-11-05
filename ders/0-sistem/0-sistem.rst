@@ -13,7 +13,7 @@ Sistem Hakkında
 
 Açıklamalar
 ^^^^^^^^^^^
-    - AMD olmayan Faz1, Faz2 ve Faz3 tahtalarda kullanılabilir.
+    - Faz1, Faz2 İntel, Faz2 AMD ve Faz3 tahtalarda kullanılabilir.
     - e-kilit sistemine ihtiyaç olmayacak şekilde tasarlandı(girişe iki farklı qr uygulaması eklendi)
     - EbaQr ile sisteme giriş sistemi eklendi.
     - Qr ile sistemdeki kullanıcılardan birini seçerek telefon ile giriş eklendi
