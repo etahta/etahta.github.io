@@ -17,9 +17,7 @@ qrkilit sistemini kullanmak için aşağıdaki aşamaları uygulayınız. qrkili
  .. image:: /_static/images/2-giris-qrkilit.png
   :width: 600
 
-3. site üzerinden Hesap Aç  ile bir hesap oluşturunuz.
-
-E-Posta olarak kurum e-postasını verirseniz aktivasyon kodu kurum e-postasına gelecektir. Kurum e-postası dışında bir e-postası verirseniz onaylama işlemini gün içerisinde tarafımızdan gerçekleşir.
+3. Site üzerinden Hesap Aç  ile bir hesap oluşturunuz. Açılan hesabın, onaylama işlemi gün içerisinde gerçekleşir. 
 
 .. image:: /_static/images/3-giris-qrkilit.png
   :width: 600
