@@ -40,9 +40,15 @@ qrkilit sistemini kullanmak için aşağıdaki aşamaları uygulayınız. qrkili
 
 7. Tahtada ise aşağıdaki resimdeki gibi 0000021 Hesap Kodunuı girin ve kaydedin.
 
-.. image:: /_static/images/7-giris-qrkilit.png
+.. image:: /_static/images/7-giris-qrkilit-1.png
   :width: 600
-  
+
+.. image:: /_static/images/7-giris-qrkilit-2.png
+  :width: 600
+
+.. image:: /_static/images/7-giris-qrkilit-3.png
+  :width: 600
+ 
 8. Okul öğretmenleri telefonuyla qrkilit.com.tr sitesini açıp ve sisteme 0000021 kullanıcı olarak giriş yapacak.
 
 .. image:: /_static/images/8-giris-qrkilit.png
@@ -60,7 +66,12 @@ qrkilit sistemini kullanmak için aşağıdaki aşamaları uygulayınız. qrkili
 
 .. image:: /_static/images/11-giris-qrkilit.png
   :width: 600
-  
+
+11. Diğer giriş seçeneği ise qr hiç okutmadan ekrandaki tek kullanımlık parolayı girerek açabilirsiniz.
+
+.. image:: /_static/images/11-giris-qrkilit-1.png
+  :width: 600
+
 Burada anlatılan kullanıcı adı ve parolalar örnek amaçlı verilmiştir. Btr öğretmenlerimiz istediği gibi kullanıcı adı seçebilir.
 
 .. raw:: pdf
