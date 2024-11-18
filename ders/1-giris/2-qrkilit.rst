@@ -8,7 +8,9 @@ Qrkilit sistemiyle telefondan tahtayı açabilirsiniz. Web üzerinden duyuru yay
 
 qrkilit sistemini kullanmak için aşağıdaki aşamaları uygulayınız. qrkilit sisteminde telefonda internetin olması yeterlidir. Sadece kilit için tahtada internet olmak zorunda değil. Burada anlatılan işlemleri okul BTR öğretmeni veya okul idarecilerinin yapması gerekmektedir.
 
-0. https://github.com/bayramkarahan/pardus-lightdm-greeter-qrkilit/releases/download/current/pardus-lightdm-greeter-qrkilit_1.2_all.deb  dosyayı indirin kurun.
+0. https://github.com/bayramkarahan/pardus-lightdm-greeter-qrkilit/releases/download/current/pardus-lightdm-greeter-qrkilit_1.2_all.deb  dosyayı indirin kurun. 
+
+Android telefonlar için https://github.com/bayramkarahan/pardus-lightdm-greeter-qrkilit/raw/refs/heads/master/qrkilit.apk dosyasını indirin telefonunuza kurun.
 
 1. internet tarayıcısını açınız
 
