@@ -10,7 +10,7 @@ Bu dağıtım tahtalarda açık kaynaklı sistemleri kullanarak hızlı ve prati
 Sistem İçerik Bilgisi
 ^^^^^^^^^^^^^^^^^^^^^
 	
-	- Amd işlemci dışındaki faz1-2-3 tüm tahtalarda çalışmaktadır.
+	- Amd faz1-2-3 tüm tahtalarda çalışmaktadır.
 	- Ebaqr ile giriş yapılabilir.
 	- Qrkod ile giriş yapılabilir.
 	- Usb anahtar ile giriş yapılabilir.
