@@ -130,6 +130,11 @@ Bu komutları sudo su root komutunu çalıştırıp root olduktan sonra kullanı
 	dpkg --add-architecture i386
 	apt install software-properties-common -y
 	
+	#genel key ekleniyor
+	wget -O /tmp/winehq.key https://dl.winehq.org/wine-builds/winehq.key
+	dpkg --add-architecture i386
+	apt install software-properties-common -y
+	apt-key add /tmp/winehq.key
 	#key ekleniyor
 	mkdir -pm755 /etc/apt/keyrings
 	rm -rf /etc/apt/keyrings/winehq*
